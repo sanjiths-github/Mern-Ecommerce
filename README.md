@@ -1,4 +1,4 @@
-Mern Stack Ecommerce Website
+* Stack Ecommerce Website
 
 Features Involved :-
 
@@ -13,6 +13,7 @@ User's side
 * Users can see ordered products
 * Users can select products by categories
 * Payment intergation is paypal
+* Postman is the platform used to test restapi
 
 Admin side
 
