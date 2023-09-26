@@ -19,7 +19,7 @@ Admin side
 * Login page
 * Admins can create categories for products
 * Admin can add, delete and update products
-* Admin can check total ordered products from users and can see total
+* Admin can check total ordered products from users and can see total users
 
   Technology used :-
   * Reactjs
