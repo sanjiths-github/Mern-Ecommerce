@@ -1,4 +1,4 @@
-* Stack Ecommerce Website
+* Mern Stack Ecommerce Website
 
 Features Involved :-
 
